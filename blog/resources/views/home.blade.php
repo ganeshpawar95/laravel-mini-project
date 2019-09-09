@@ -1,0 +1,1 @@
+hii it my first views in laravel i like it i am happy with laravel 
